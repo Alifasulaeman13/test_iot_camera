@@ -13,6 +13,13 @@ This script successfully implements **all mandatory requirements** and **all opt
 - Python >= 3.8
 - `opencv-python`
 
+## 💻 Spesifikasi Sistem (Environment)
+Sesuai dengan *Submission Guidelines*, berikut adalah spesifikasi sistem yang digunakan selama pengerjaan tugas ini:
+- **OS:** Windows
+- **Prosesor:** Intel Core i7 Gen 14
+- **RAM:** 16 GB
+- **Storage:** SSD 512GB Gen4
+
 ## Setup & Installation
 Install the required OpenCV library:
 ```bash
